@@ -6,10 +6,10 @@
     <div class="container">
         <img src="../assets/images/ellipse.svg" alt="">
         <h1><b>What We Do</b><br> For Your <span class="underlined">Business</span></h1>
-        <Card title="WEBSITE DESIGN" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" color="red" image="../assets/images/website-icon.svg"></Card>
-        <Card title="WEB DEVELOPMENT" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"></Card>
-        <Card title="MOBILE APP DEVELOPMENT" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"></Card>
-        <Card title="MARKETING" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"></Card>
+        <Card title="WEBSITE DESIGN" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" color="var(--color-magenta)" image="../assets/images/website-icon.svg"></Card>
+        <Card title="WEB DEVELOPMENT" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" color="var(--color-light-orange)"></Card>
+        <Card title="MOBILE APP DEVELOPMENT" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" color="var(--color-light-blue)"></Card>
+        <Card title="MARKETING" description="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" color="var(--color-light)"></Card>
     </div>
 </template>
 

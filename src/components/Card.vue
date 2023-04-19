@@ -4,10 +4,9 @@
 
 <template>
 <div class="card">
-    <!-- <img src="../assets/images/website-icon.svg" :style="{background:color}"> -->
-    <!-- <img :src="{image}" alt=""> -->
-    <div :style="{backgroundImage: `url(${image})`}"></div>
-    {{ image }}
+    <img src="../assets/images/website-icon.svg" :style="{background:color}">
+    <!-- <img v-bind:src="{image}" alt=""> -->
+    <!-- <div :style="{backgroundImage: `url(${image})`}"></div> -->
 <div class="title">
     {{ title }}
 </div>
